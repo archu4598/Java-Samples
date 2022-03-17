@@ -7,6 +7,7 @@ public class constructorover {
 	     Trycatch tc1 = new Trycatch(5, "ds");
            System.out.println("Hi");
 	     tc.example1();
+tc1.example1();
 	}
 
 }
